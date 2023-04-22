@@ -47,7 +47,7 @@ The Glassmorphism Password Generator is a web-based user interface (UI) that gen
 
 ## Feedback and Contributions
 
-Feedback and contributions are welcome! Please report any issues or suggestions on the [GitHub repository](https://github.com/your-repo-name).
+Feedback and contributions are welcome! Please report any issues or suggestions on the [GitHub repository](https://github.com/Fastiraz/Glassword/).
 
 ## License
 
